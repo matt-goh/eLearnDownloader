@@ -91,7 +91,7 @@ class Downloader:
         chromiumPath = os.path.join(basePath, "chromium", "chrome.exe")
 
         # Launch Pyppeteer using the specified Chromium executable path
-        browser = await launch(executablePath=chromiumPath, headless=False)
+        browser = await launch(executablePath=chromiumPath, headless=True)
         
         page = await browser.newPage()
         
