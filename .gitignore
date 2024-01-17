@@ -1,0 +1,6 @@
+# .gitignore
+
+build/
+dist/
+setup.py
+chromium
