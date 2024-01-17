@@ -3,4 +3,5 @@
 build/
 dist/
 setup.py
+credentials.ini
 chromium
