@@ -3,6 +3,6 @@
 build/
 dist/
 setup.py
-# credentials.ini
+credentials.ini
 chromium
-# README.md
+README.md
