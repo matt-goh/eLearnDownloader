@@ -91,12 +91,12 @@ class Downloader:
         chromiumPath = os.path.join(basePath, "chromium", "chrome.exe")
 
         # Launch Pyppeteer using the specified Chromium executable path
-        browser = await launch(executablePath=chromiumPath, headless=True)
+        browser = await launch(executablePath=chromiumPath, headless=False)
         
         page = await browser.newPage()
-        
+            
         await page.goto(url)
-        await page.waitForNavigation(timeout=3000)
+        await page.waitForNavigation(timeout=10000)
 
         try:
             # For the cookies policy consent form pop up that appears for new users
