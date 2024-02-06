@@ -1,4 +1,4 @@
-Downloading files one by one every new semester was a pain for me, so I made this, only works for Sunway College or Sunway University's eLearn website
+Downloading files one by one every new semester was a pain for me, so I made this. Only works for Sunway College or Sunway University's eLearn website
 <br><br>
 Preview:
 <br><br>
