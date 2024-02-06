@@ -1,5 +1,5 @@
 Downloading files one by one every new semester was a pain for me, so I made this, only works for Sunway College or Sunway University's eLearn website
-
+<br><br><br>
 Preview:
 <br><br>
 <img src="https://github.com/matt-goh/eLearnDownloader/assets/81803417/a5513a35-5b9c-45c8-9676-e05d674bcdc2" width="631" height="250" /><br>
